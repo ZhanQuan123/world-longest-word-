@@ -3,4 +3,6 @@ The word is 189,819 letters long. It's actually the name of a giant protein call
 
 
 #Mr Beast Reading it
-https://www.youtube.com/watch?v=IZVbzNRUlQI&t=5295s
+
+
+<iframe width="885" height="498" src="https://www.youtube.com/embed/IZVbzNRUlQI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
