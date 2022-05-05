@@ -4,4 +4,5 @@ The word is 189,819 letters long. It's actually the name of a giant protein call
 
 #Mr Beast Reading it
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/IZVbzNRUlQI&t=5295s/0.jpg)](http://www.youtube.com/watch?v=IZVbzNRUlQI&t=5295s "Reading The Longest English Word (190,000 Characters)")
+
+[![Reading The Longest English Word (190,000 Characters)](https://img.youtube.com/vi/IZVbzNRUlQI&t=5295s/0.jpg)](https://www.youtube.com/watch?v=IZVbzNRUlQI&t=5295s "Reading The Longest English Word (190,000 Characters)")
